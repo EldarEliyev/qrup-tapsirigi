@@ -1,0 +1,14 @@
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.exe
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.deps.json
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.runtimeconfig.json
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.dll
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\bin\Debug\net8.0\ConsoleApp72.pdb
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.AssemblyInfoInputs.cache
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.AssemblyInfo.cs
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.csproj.CoreCompileInputs.cache
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.dll
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\refint\ConsoleApp72.dll
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.pdb
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ConsoleApp72.genruntimeconfig.cache
+C:\Users\ELDAR\source\repos\ConsoleApp72\ConsoleApp72\obj\Debug\net8.0\ref\ConsoleApp72.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELDAR\\source\\repos\\ConsoleApp72\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9A89EC-0BA4-4CAB-83F4-3E6394448840}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\eldar\\source\\repos\\consoleapp72\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE9A89EC-0BA4-4CAB-83F4-3E6394448840}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA1FF7C-4C69-40EC-80C6-1573407891AB}|ConsoleApp72\\ConsoleApp72.csproj|c:\\users\\eldar\\source\\repos\\consoleapp72\\consoleapp72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA1FF7C-4C69-40EC-80C6-1573407891AB}|ConsoleApp72\\ConsoleApp72.csproj|solutionrelative:consoleapp72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELDAR\\source\\repos\\ConsoleApp72\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\ELDAR\\source\\repos\\ConsoleApp72\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAALAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:52:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELDAR\\source\\repos\\ConsoleApp72\\ConsoleApp72\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp72\\Program.cs",
+              "ToolTip": "C:\\Users\\ELDAR\\source\\repos\\ConsoleApp72\\ConsoleApp72\\Program.cs",
+              "RelativeToolTip": "ConsoleApp72\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:32:27.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
